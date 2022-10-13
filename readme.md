@@ -6,6 +6,10 @@ This is a game where a user generates any random number between 1-20.If the numb
 If you generate the wrong guess your score is decreased.
 Note if your score reaches Zero You loose Your Game.
 
+# User Interface 
+![GuessGame](https://user-images.githubusercontent.com/93251478/195604220-7b02571c-aaf3-4e8c-b576-32db39ec9138.png)
+
+
 # Setup/Installation Requirements
 1.Clone the repository https://github.com/Emmanuel687/Guess-Game.git 
 2.Open Terminal Command line,Navigate to project folder. 
