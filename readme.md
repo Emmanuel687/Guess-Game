@@ -7,7 +7,7 @@ If you generate the wrong guess your score is decreased.
 Note if your score reaches Zero You loose Your Game.
 
 # Setup/Installation Requirements
-1.Clone the repository https://github.com/Emmanuel687/GuessGame.git 
+1.Clone the repository https://github.com/Emmanuel687/Guess-Game.git 
 2.Open Terminal Command line,Navigate to project folder. 
 3.Cd to project. 
 4.Install Liveserve in Vscode.
