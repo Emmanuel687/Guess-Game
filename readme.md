@@ -12,3 +12,5 @@ Note if your score reaches Zero You loose Your Game.
 3.Cd to project. 
 4.Install Liveserve in Vscode.
 4.Run project using liveserve.
+
+# Contributing
