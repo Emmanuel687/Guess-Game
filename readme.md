@@ -22,3 +22,8 @@ Note if your score reaches Zero You loose Your Game.
 
 # Known Bugs
 There are no Know Bugs.
+
+# Technologies Used.
+1.Javascript
+2.HTML
+3.CSS
