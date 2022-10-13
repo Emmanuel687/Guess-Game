@@ -10,5 +10,5 @@ Note if your score reaches Zero You loose Your Game.
 1.Clone the repository https://github.com/Emmanuel687/GuessGame.git 
 2.Open Terminal Command line,Navigate to project folder. 
 3.Cd to project. 
-4.Install Liveserve in Vscode
-4.Run project using liveserve
+4.Install Liveserve in Vscode.
+4.Run project using liveserve.
