@@ -32,3 +32,6 @@ There are no Know Bugs.
  For support and contact details
  Call  :0790064309
  Email :koechemmanuel@gmail.com
+
+ # License
+ Licence under MITLICENCE Copyright (c){2022}
